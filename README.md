@@ -1,43 +1,16 @@
-# Task-Manager-With-Progress-Tracker
+# React + Vite
 
-Task Manager with Progress Tracker is a modern and responsive web application that helps users efficiently manage their daily tasks while tracking progress in real time. Built using HTML, CSS, JavaScript, and React, this app provides a clean and intuitive interface to boost productivity.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-🚀 Features
+Currently, two official plugins are available:
 
-➕ Add new tasks
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-✏️ Edit existing tasks
+## React Compiler
 
-❌ Delete tasks
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-✅ Mark tasks as completed/incomplete
+## Expanding the ESLint configuration
 
-📊 Real-time progress tracking
-
-📱 Responsive design (works on mobile & desktop)
-
-⚡ Fast and dynamic UI with React
-
-🛠️ Technologies Used
-
-HTML
-
-CSS
-
-JavaScript
-
-React
-
-📸 Screenshots
-
-<img width="644" height="641" alt="image" src="https://github.com/user-attachments/assets/2d613348-7da8-410d-a9f4-9f0ec742200b" />
-
-🎯 Use Case
-
-This application is useful for:
-
-Students managing assignments
-
-Professionals tracking daily tasks
-
-Anyone who wants to stay organized
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
