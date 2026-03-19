@@ -1,16 +1,59 @@
-# React + Vite
+#Task Manager With Progress Tracker 
+Task Manager with Progress Tracker is a modern and responsive web application that helps users efficiently manage their daily tasks while tracking progress in real time. Built using HTML, CSS, JavaScript, and React, this app provides a clean and intuitive interface to boost productivity.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
 
-Currently, two official plugins are available:
+➕ Add new tasks
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+✏️ Edit existing tasks
 
-## React Compiler
+❌ Delete tasks
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+✅ Mark tasks as completed/incomplete
 
-## Expanding the ESLint configuration
+📊 Real-time progress tracking
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📱 Responsive design (works on mobile & desktop)
+
+⚡ Fast and dynamic UI with React
+
+🛠️ Technologies Used
+
+HTML
+
+CSS
+
+JavaScript
+
+React
+
+
+⚙️ Installation & Setup
+
+Follow these steps to run the project locally:
+
+# Clone the repository
+git clone https://github.com/your-username/task-manager.git
+
+# Navigate into the project folder
+cd task-manager
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
+📸 Screenshots
+
+<img width="1307" height="634" alt="image" src="https://github.com/user-attachments/assets/e52f63d5-8a51-441d-af55-5599239982f5" />
+
+
+🎯 Use Case
+
+This application is useful for:
+
+Students managing assignments
+
+Professionals tracking daily tasks
+
+Anyone who wants to stay organized
